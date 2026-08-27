@@ -12,3 +12,11 @@ match statistics and personal datasets.
 ## Status
 
 Legacy project.
+
+## Archive
+
+This repository contains only the current
+version of the tools.
+
+Legacy deployment information was removed
+from the current configuration.
